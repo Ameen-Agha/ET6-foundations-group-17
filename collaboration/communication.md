@@ -31,14 +31,14 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 | Name/Day | Sunday | Monday | Tuesday | Wednesday| Thursday | Friday | Saturday|
 |--------------|--------|---------|----------|----------|--------|-------|------|
-| Malak Battatt| 5-8 PM| 5-8 PM | 5-8 PM | 5-8 PM |3-6 PM | 2-4 PM| 2-5 PM |
+| Malak Battatt| 5-8PM| 5-8PM | 5-8PM | 5-8PM |3-6PM | 2-4PM| 2-5PM |
 | Abdulrahman Alsir| 7-9PM| 2-5PM | 4-8PM | 7-9PM | 7-9PM | 6-8PM | 6-8PM |
 | Ameen Agha| 2-6PM| 2-6PM | 2-6PM | 2-6PM | 2-6PM | 2-6PM| 2-6PM|
 | Aseel AbuKmail| 7-10PM| 2-5PM | 5-8PM | 5-7PM | 7-9PM | 6-10PM | 6-8PM |
 | Maher Assaf | 4-7PM| 4-7PM | 6-7PM | 7-8PM | 7-9PM | 6-8PM | 6-8PM |
 | Maria Roufail | 4-7PM| 4-7PM | 6-7PM | 7-8PM | 7-9PM | 6-8PM | 6-8PM |
 | Muhannad Assaf | 4-7PM| 4-7PM | 6-7PM | 7-8PM | 7-9PM | 6-8PM | 6-8PM |
-| Rouaa Hamzah | 4-7 PM| 4-7 PM | 4-7 PM | 4-7 PM | 7-9PM | | |
+| Rouaa Hamzah | 4-7PM| 4-7PM | 4-7PM | 4-7PM | 7-9PM | 7-9PM| 7-9PM|
 
 ### How many hours everyone has per day
 
