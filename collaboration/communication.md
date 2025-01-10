@@ -8,10 +8,10 @@
 | Dec. 23rd ✅ | Monday | Google Meet | Collaboratively exploring the group repo.|
 | Dec. 26th ✅ | Thursday | Google Meet |Collaboration folder and its files|
 | Jan. 2nd ✅ | Thursday | Google Meet | Final meeting for the collaboration folder|
-| Jan. 4th | Saturday | Zoom Online Meeting | Problems Delivery |
-| Jan. 6th | Monday   | GitHub | Problems Delivery Deadline |
-| Jan. 7th | Tuesday  | GitHub | Solutions Delivery Deadline |
-| Jan. 8th | Wednesday| Zoom Online Meeting | Retrospective |
+| Jan. 4th ✅| Saturday | Zoom Online Meeting | Problems Delivery |
+| Jan. 6th ✅| Monday   | GitHub | Problems Delivery Deadline |
+| Jan. 7th ✅| Tuesday  | GitHub | Solutions Delivery Deadline |
+| Jan. 8th ✅| Wednesday| Zoom Online Meeting | Retrospective |
 
 ## Communication Channels
 
@@ -33,6 +33,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 |--------------|--------|---------|----------|----------|--------|-------|------|
 | Malak Battatt| 5-8 PM| 5-8 PM | 5-8 PM | 5-8 PM |3-6 PM | 2-4 PM| 2-5 PM |
 | Abdulrahman Alsir| 7-9PM| 2-5PM | 4-8PM | 7-9PM | 7-9PM | 6-8PM | 6-8PM |
+| Ameen Agha| 2-6PM| 2-6PM | 2-6PM | 2-6PM | 2-6PM | 2-6PM| 2-6PM|
 | Aseel AbuKmail| 7-10PM| 2-5PM | 5-8PM | 5-7PM | 7-9PM | 6-10PM | 6-8PM |
 | Maher Assaf | 4-7PM| 4-7PM | 6-7PM | 7-8PM | 7-9PM | 6-8PM | 6-8PM |
 | Maria Roufail | 4-7PM| 4-7PM | 6-7PM | 7-8PM | 7-9PM | 6-8PM | 6-8PM |
@@ -43,6 +44,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 - Malak Battatt: _~2-4h_;
 - Abdulrahman Alsir: _~2-4h_;
+- Ameen Agha: _~2-4h_;
 - Aseel AbuKmail: _~2-4h_;
 - Maher: _~2h_;
 - Maria: _~2h_;
